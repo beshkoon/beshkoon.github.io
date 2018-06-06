@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+#سایت رسمی بازی بشکون
 
-You can use the [editor on GitHub](https://github.com/beshkoon/beshkoon.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##بازی بشکون۱
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+بازی بسیار زیبا و سرگرم کننده که در آن باید ظرف های مختلف را بشکنید!
 
-### Markdown
+#[دانلود بشکون۱](https://github.com/beshkoon/beshkoon/raw/master/beshkoon1.apk)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+در این بازی بسیار زیبا و سرگرم کننده ظرف های مختلفی به پایین می افتند.
+شما باید با لمس صفحه هر ظرف را روی یکی از ستون ها قرار دهید .
+پس از چند ظرف یک وزنه می افتد که هروزنه تعداد مختلفی از ظرف ها را می شکند.
+شما باید با شکستن ظرف ها مانع از رسیدن ظرف ها به بالای صفحه شوید.
 
-```markdown
-Syntax highlighted code block
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/0.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/1.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/2.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/3.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/4.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+#[دانلود بشکون۱](https://github.com/beshkoon/beshkoon/raw/master/beshkoon1.apk)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##بازی بشکون۲
 
-**Bold** and _Italic_ and `Code` text
+بازی بسیار زیبا و سرگرم کننده که در آن باید ظرف های مختلف را بشکنید!
 
-[Link](url) and ![Image](src)
-```
+#[دانلود بشکون۲](https://github.com/beshkoon/beshkoon/raw/master/beshkoon2.apk)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+نسخه ۲ از بازی زیبای بشکون. در این نسخه مکانیزم بازی تغییر کرده و بر مبنای فیزیک واقعی است.
+در این بازی بسیار زیبا و سرگرم کننده ظرف های مختلفی به پایین می افتند.
+شما باید با لمس صفحه هر ظرف را هر ظرف را در جایی قرار دهید .
+پس از چند ظرف یک وزنه می افتد که هر وزنه تعداد مختلفی از ظرف ها را می شکند.
+شما باید با شکستن ظرف ها مانع از رسیدن ظرف ها به بالای صفحه شوید.
 
-### Jekyll Themes
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/5.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/6.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/7.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/8.jpg)
+![نمایی از بازی](https://github.com/beshkoon/beshkoon.github.io/raw/master/9.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beshkoon/beshkoon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#[دانلود بشکون۲](https://github.com/beshkoon/beshkoon/raw/master/beshkoon2.apk)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
